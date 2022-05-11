@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'League Spartan';
     src: url('../fonts/LeagueSpartan-Medium.woff2') format('woff2'),
-        url('../fonts/LeagueSpartan-Medium.woff') format('woff');
+    url('../fonts/LeagueSpartan-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -106,14 +106,14 @@ img{
 .company-name {
     display: flex;
     align-items: center;
-
+    
 }
 .new {
     width: 51px;
     display: flex;
     align-items: center;
     justify-content: center;
-   
+    
 }
 .green-text{
     border-radius: 12px;
@@ -150,8 +150,8 @@ img{
     color:#2B3939;
     text-decoration: none;
     font-weight: 700;
-font-size: 18px;
-line-height: 24px;
+    font-size: 18px;
+    line-height: 24px;
 }
 .box{
     padding-top: 8px;
